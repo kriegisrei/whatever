@@ -2,7 +2,7 @@
 i dont want to build my site in mkdocs to add a single image
 
 
-##credits
+## credits
 
 https://github.com/bubble2k16/snes9x_3ds/releases
 
